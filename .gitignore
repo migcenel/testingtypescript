@@ -23,4 +23,4 @@ _book
 *.mobi
 *.pdf
 
-dist
+dist/**/*
