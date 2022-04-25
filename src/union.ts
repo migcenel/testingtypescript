@@ -9,9 +9,10 @@
             console.log("Hola ", text.toLowerCase());
         }
         else{
-            console.log("Hola ", text.toFixed(1));
+            console.log("Hola ", text.toFixed(2));
         }
     }
 
     greeting ("Darling");
+    greeting (235443);
 })();
